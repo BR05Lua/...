@@ -2257,7 +2257,7 @@ local function createUI()
 	menuHandle.Name = "MenuHandle"
 	menuHandle.AnchorPoint = Vector2.new(0.5, 0)
 	menuHandle.Position = UDim2.new(0.5, 0, 0, 6)
-	menuHandle.Size = UDim2.new(0, 560, 0, 42)
+	menuHandle.Size = UDim2.new(0, 260, 0, 42)
 	menuHandle.BorderSizePixel = 0
 	menuHandle.Parent = gui
 	makeCorner(menuHandle, 16)
