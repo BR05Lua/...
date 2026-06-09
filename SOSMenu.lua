@@ -920,6 +920,7 @@ local CustomIdle = {
 	["JJBA Made in Heaven"] = 79234770032233,
 	["JJK Mahito"] = 92585001378279,
 	["JJK Gojo"] = 139000839803032,
+	["A Catgirl "] = 127329984791672,
 	["HxH Gon (Rage)"] = 136678571910037,
 	["OP Luffy"] = 107520488394848,
 	["U Sans"] = 123627677663418,
