@@ -1096,7 +1096,6 @@ local CustomRun = {
 	["LN Shuffle"] = 127744968066540,
 	["SB Shuffle"] = 136292253730425,
 	["SB Shuffle 2"] = 88988727253154,
-	["Triple T Shuffle"] = 88583297740645,
 	["MJ Moonwalk"] = 76630051272791,
 	["Happy Happy Happy"] = 89660807643936,
 	["FNAFM Springtrap"] = 137223234687220,
