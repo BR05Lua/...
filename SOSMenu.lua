@@ -938,6 +938,7 @@ local CustomIdle = {
 	["TG Kaneki"] = 116671111363578,
 	["DS Tanjiro"] = 118533315464114,
 	["Head Hold (UPDATED)"] = 76660787507306,
+	["Cat Girl"] = 120967255124828,
 	["Robot Perform"] = 105174189783870,
 	["DB Piccolo "] = 132760736980996,
 	["Hmmm Float"] = 107666091494733,
